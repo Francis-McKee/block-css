@@ -8,5 +8,4 @@ CSS Template for Items Displayed Horizontally in Block Form
 - Ecommerce site to display products
 
 **Recommendations:**
-- Creating a seperate folder '/images' for all of your images
 - Instead of using links below each block image, try using the image itself as a link
