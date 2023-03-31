@@ -7,5 +7,4 @@ CSS Template for Items Displayed Horizontally in Block Form
 - Photo gallery
 - Ecommerce site to display products
 
-**Recommendations:**
-- Instead of using links below each block image, try using the image itself as a link
+Recommendation: Instead of using links below each block image, try using the image itself as a link
